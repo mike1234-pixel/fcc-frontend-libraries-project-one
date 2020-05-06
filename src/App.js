@@ -48,8 +48,14 @@ class App extends React.Component {
             timeout={1000}
             classNames="fade"
           >
-            <img
+            {/* <img
               src={"../Images/" + this.state.img}
+              id="img"
+              className="img"
+              alt={this.state.img}
+            ></img> */}
+            <img
+              src={"../public/Images/" + this.state.img}
               id="img"
               className="img"
               alt={this.state.img}
