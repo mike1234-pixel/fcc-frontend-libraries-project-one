@@ -1,0 +1,43 @@
+.img-container {
+  height: 100px;
+  width: 100px;
+}
+
+// image appear
+
+.fade-appear {
+  opacity: 0;
+  z-index: 1;
+  position: absolute;
+
+  &-active {
+    opacity: 1;
+    transition: opacity 500ms linear;
+  }
+}
+
+// image enter
+
+.fade-enter {
+  opacity: 0;
+  z-index: 1;
+  position: absolute;
+
+  &-active {
+    opacity: 1;
+    transition: opacity 500ms linear 500ms;
+  }
+}
+
+// image exit
+
+.fade-exit {
+  opacity: 1;
+  z-index: 0;
+  position: absolute;
+
+  &-active {
+    opacity: 0;
+    transition: opacity 2500ms linear;
+  }
+}
