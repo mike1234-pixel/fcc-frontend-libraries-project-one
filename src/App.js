@@ -49,13 +49,13 @@ class App extends React.Component {
             classNames="fade"
           >
             <img
-              src={"../Images/" + this.state.img}
+              src={"./Images/" + this.state.img}
               id="img"
               className="img"
               alt={this.state.img}
             ></img>
             {/* <img
-              src={"../public/Images/" + this.state.img}
+              src={"../Images/" + this.state.img}
               id="img"
               className="img"
               alt={this.state.img}
