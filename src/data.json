@@ -1,26 +1,26 @@
 [
   {
-    "quote": "Word has reached my ears of this Denethor, son of Arathorn, and I tell you now, I will not bow to this Ranger from the North, last of a ragged house long bereft of lordship!",
+    "quote": "Word has reached my ears of this Aragorn, son of Arathorn, and I tell you now, I will not bow to this Ranger from the North, last of a ragged house long bereft of lordship!",
     "author": "Denethor Son of Ecthelion",
-    "img": "Denethor",
+    "img": "Denethor.jpg",
     "class": "denethor"
   },
   {
     "quote": "A new power is rising. Its victory is at hand. This night the land will be stained with the blood of Rohan. March to Helm's Deep. Leave none alive. To war!",
     "author": "Saruman the White (Curunír)",
-    "img": "Saruman",
+    "img": "Saruman.jpg",
     "class": "saruman"
   },
   {
-    "quote": "Who knows what you have spoken to the darkness, alone, in the bitter watches of the night, when all your life seems to shrink, the walls of your bower closing in about you, a hutch to trammel some wild thing",
+    "quote": "Who knows what you have spoken to the darkness, alone, in the bitter watches of the night, when all your life seems to shrink, the walls of your bower closing in about you, a hutch to trammel some... wild thing",
     "author": "Grima Wormtongue",
-    "img": "Grima",
+    "img": "Grima.jpg",
     "class": "grima"
   },
   {
-    "quote": "Let the lord of the Black land come forth!",
+    "quote": "Let the laird of the Black land cam forth!",
     "author": "Aragorn (Strider)",
-    "img": "Aragorn",
+    "img": "Aragorn.jpg",
     "class": "aragorn"
   }
 ]

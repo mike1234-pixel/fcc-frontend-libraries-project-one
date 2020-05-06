@@ -1,6 +1,11 @@
 import React from "react";
 import "./App.css";
-import data from "./data.json"; // data parsed by react - JSON.parse() not needed
+import data from "./data.json";
+// import Aragorn from "C:UsersUserDesktopWeb Developmentquote-machinepublicImagesAragorn.jpg";
+// import Denethor from "C:UsersUserDesktopWeb Developmentquote-machinepublicImagesDenethor.jpg";
+// import Saruman from "C:UsersUserDesktopWeb Developmentquote-machinepublicImagesSaruman.jpg";
+// import Grima from "C:UsersUserDesktopWeb Developmentquote-machinepublicImagesAragorn.jpg";
+// data parsed by react - JSON.parse() not needed
 
 class App extends React.Component {
   constructor() {
@@ -44,6 +49,11 @@ class App extends React.Component {
         <a id="tweet-quote" href="twitter.com/intent/tweet">
           Tweet Quote
         </a>
+        <img
+          src={"../Images/" + this.state.img}
+          style={{ width: 100, height: 100 }}
+          id="img"
+        ></img>
       </div>
     );
   }
