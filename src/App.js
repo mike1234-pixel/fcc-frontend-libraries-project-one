@@ -1,26 +1,52 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import data from "./data.json"; // data parsed by react - JSON.parse() not needed
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+class App extends React.Component {
+  constructor() {
+    super();
+    this.state = {
+      quote: "",
+      author: "",
+      img: "",
+      class: "",
+    };
+    this.handleClick = this.handleClick.bind(this);
+  }
+
+  handleClick() {
+    const randomNum = Math.floor(Math.random() * 4);
+
+    const randomQuotes = data;
+
+    this.setState((state) => ({
+      quote: randomQuotes[randomNum].quote,
+      author: randomQuotes[randomNum].author,
+      img: randomQuotes[randomNum].img,
+      class: randomQuotes[randomNum].class,
+    }));
+  }
+
+  componentDidMount() {
+    window.addEventListener("load", this.handleClick);
+  }
+
+  render() {
+    console.log(this.state.img);
+
+    return (
+      <div id="quote-box" className={this.state.class}>
+        <a id="new-quote" onClick={this.handleClick}>
+          New Quote
         </a>
-      </header>
-    </div>
-  );
+        <p id="text">{this.state.quote}</p>
+        <p id="author">{this.state.author}</p>
+        <a id="tweet-quote" href="twitter.com/intent/tweet">
+          Tweet Quote
+        </a>
+      </div>
+    );
+  }
 }
 
 export default App;

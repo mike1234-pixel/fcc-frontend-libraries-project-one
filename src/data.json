@@ -1,0 +1,26 @@
+[
+  {
+    "quote": "Word has reached my ears of this Denethor, son of Arathorn, and I tell you now, I will not bow to this Ranger from the North, last of a ragged house long bereft of lordship!",
+    "author": "Denethor Son of Ecthelion",
+    "img": "Denethor",
+    "class": "denethor"
+  },
+  {
+    "quote": "A new power is rising. Its victory is at hand. This night the land will be stained with the blood of Rohan. March to Helm's Deep. Leave none alive. To war!",
+    "author": "Saruman the White (Curunír)",
+    "img": "Saruman",
+    "class": "saruman"
+  },
+  {
+    "quote": "Who knows what you have spoken to the darkness, alone, in the bitter watches of the night, when all your life seems to shrink, the walls of your bower closing in about you, a hutch to trammel some wild thing",
+    "author": "Grima Wormtongue",
+    "img": "Grima",
+    "class": "grima"
+  },
+  {
+    "quote": "Let the lord of the Black land come forth!",
+    "author": "Aragorn (Strider)",
+    "img": "Aragorn",
+    "class": "aragorn"
+  }
+]
