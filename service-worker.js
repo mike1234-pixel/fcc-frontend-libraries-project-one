@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LOTRQuote/precache-manifest.1fcf405cfcbe06ddcc8cbc67be14070c.js"
+  "/LOTRQuote/precache-manifest.902e62201445868de8c69dc3fd351a15.js"
 );
 
 self.addEventListener('message', (event) => {
