@@ -6,13 +6,61 @@
     "class": "denethor"
   },
   {
+    "quote": " Is there a captain here who still has the courage to do his lord's will?",
+    "author": "Denethor Son of Ecthelion",
+    "img": "Denethor.jpg",
+    "class": "denethor"
+  },
+  {
+    "quote": "My sons are spent. My line has ended. Rohan has deserted us. Theoden's betrayed me. Abandon your posts! Flee, flee for your lives!",
+    "author": "Denethor Son of Ecthelion",
+    "img": "Denethor.jpg",
+    "class": "denethor"
+  },
+  {
     "quote": "A new power is rising. Its victory is at hand. This night the land will be stained with the blood of Rohan. March to Helm's Deep. Leave none alive. To war!",
     "author": "Saruman the White (Curunír)",
     "img": "Saruman.jpg",
     "class": "saruman"
   },
   {
-    "quote": "Who knows what you have spoken to the darkness, alone, in the bitter watches of the night, when all your life seems to shrink, the walls of your bower closing in about you, a hutch to trammel some... wild thing",
+    "quote": "Whom do you serve?",
+    "author": "Saruman the White (Curunír)",
+    "img": "Saruman.jpg",
+    "class": "saruman"
+  },
+  {
+    "quote": "I gave you the chance of aiding me willingly, but you have elected the way of pain!",
+    "author": "Saruman the White (Curunír)",
+    "img": "Saruman.jpg",
+    "class": "saruman"
+  },
+  {
+    "quote": "So Gandalf, you try to lead them over Caradhras. And if that fails, where then will you go? If the mountain defeats you, will you risk a more dangerous road?",
+    "author": "Saruman the White (Curunír)",
+    "img": "Saruman.jpg",
+    "class": "saruman"
+  },
+  {
+    "quote": "Cuiva nwalca Carnirasse! Nai Yarvaxea Rasselya! Taltuva Notto Carinnar!",
+    "author": "Saruman the White (Curunír)",
+    "img": "Saruman.jpg",
+    "class": "saruman"
+  },
+  {
+    "quote": "Who knows what you have spoken to the darkness, alone, in the bitter watches of the night, when all your life seems to shrink, the walls of your bower closing in about you, a hutch to trammel some... wild thing.",
+    "author": "Grima Wormtongue",
+    "img": "Grima.jpg",
+    "class": "grima"
+  },
+  {
+    "quote": "The staff! I TOLD YOU TO TAKE THE WIZARD'S STAFF!",
+    "author": "Grima Wormtongue",
+    "img": "Grima.jpg",
+    "class": "grima"
+  },
+  {
+    "quote": "A just question my liege. Late is the hour in which this conjurer chooses to appear! Lathspell I name you. Ill news is an ill guest.",
     "author": "Grima Wormtongue",
     "img": "Grima.jpg",
     "class": "grima"
@@ -22,5 +70,47 @@
     "author": "Aragorn (Strider)",
     "img": "Aragorn.jpg",
     "class": "aragorn"
+  },
+  {
+    "quote": "We must get off the mountain! Make for the gap of Rohan! Or take the west road to MY CITY!",
+    "author": "Boromir, son of Denethor",
+    "img": "Boromir.jpg",
+    "class": "boromir"
+  },
+  {
+    "quote": "Your leechcraft would have had me crawling on all fours like a beast!",
+    "author": "Theoden, son of Thengel",
+    "img": "Theoden.jpg",
+    "class": "theoden"
+  },
+  {
+    "quote": "Be silent! Keep your forked tongue behind your teeth! I have not passed through fire and death to bandy crooked words with a witless worm.",
+    "author": "Gandalf the White (Mithrandir)",
+    "img": "GandalfWhite.jpg",
+    "class": "gandalf"
+  },
+  {
+    "quote": "Salted pork?",
+    "author": "Gimli, Son of Gloin",
+    "img": "Gimli.jpg",
+    "class": "gimli"
+  },
+  {
+    "quote": "Let us go through the mines of Moria. My cousin Balin will give us a ROYAL WELCOME.",
+    "author": "Gimli, Son of Gloin",
+    "img": "Gimli.jpg",
+    "class": "gimli"
+  },
+  {
+    "quote": "Lovely big GOLDEN chips with a nice piece of fried fish.",
+    "author": "Samwise Gamgee, son of Hamfast (the \"Gaffer\")",
+    "img": "Sam.jpg",
+    "class": "sam"
+  },
+  {
+    "quote": "PO-TA-TOES!? Mash 'em, boil 'em, stick 'em in a stew? ... You're 'opeless.",
+    "author": "Samwise Gamgee, son of Hamfast (the \"Gaffer\")",
+    "img": "Sam.jpg",
+    "class": "sam"
   }
 ]

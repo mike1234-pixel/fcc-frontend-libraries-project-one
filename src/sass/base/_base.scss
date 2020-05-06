@@ -1,13 +1,16 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; // 1 rem = 10px, because 10px/16px (which is the default) = 62.5%
+}
+
+body {
+  margin: 0;
+  font-family: "IM Fell Great Primer SC", times;
+  font-size: 4rem;
 }

@@ -17,7 +17,7 @@ class App extends React.Component {
   }
 
   handleClick() {
-    const randomNum = Math.floor(Math.random() * 4);
+    const randomNum = Math.floor(Math.random() * 19);
 
     const randomQuotes = data;
 
@@ -36,17 +36,10 @@ class App extends React.Component {
   render() {
     return (
       <div id="quote-box" className={this.state.class}>
-        <a id="new-quote" onClick={this.handleClick}>
+        <a id="new-quote" className="btn btn--white" onClick={this.handleClick}>
           New Quote
         </a>
 
-        <p id="text">{this.state.quote}</p>
-
-        <p id="author">{this.state.author}</p>
-
-        <a id="tweet-quote" href="twitter.com/intent/tweet">
-          Tweet Quote
-        </a>
         <TransitionGroup className="img-container">
           <CSSTransition
             key={this.state.quote}
@@ -57,12 +50,26 @@ class App extends React.Component {
           >
             <img
               src={"../Images/" + this.state.img}
-              style={{ width: 100, height: 100 }}
               id="img"
+              className="img"
               alt={this.state.img}
             ></img>
           </CSSTransition>
         </TransitionGroup>
+
+        <p id="text" className="top-margin">
+          {this.state.quote}
+        </p>
+
+        <p id="author">{this.state.author}</p>
+
+        <a
+          id="tweet-quote"
+          className="btn btn--primary btn--white"
+          href="twitter.com/intent/tweet"
+        >
+          Tweet Quote
+        </a>
       </div>
     );
   }
