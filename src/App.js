@@ -17,7 +17,7 @@ class App extends React.Component {
   }
 
   handleClick() {
-    const randomNum = Math.floor(Math.random() * 19);
+    const randomNum = Math.floor(Math.random() * 31);
 
     const randomQuotes = data;
 
@@ -48,12 +48,14 @@ class App extends React.Component {
             timeout={1000}
             classNames="fade"
           >
+            {/* production */}
             <img
               src={"./Images/" + this.state.img}
               id="img"
               className="img"
               alt={this.state.img}
             ></img>
+            {/* development */}
             {/* <img
               src={"../Images/" + this.state.img}
               id="img"

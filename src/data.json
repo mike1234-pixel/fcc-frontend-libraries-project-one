@@ -48,6 +48,18 @@
     "class": "saruman"
   },
   {
+    "quote": "What do you want, GANDALF GREYHAME? Let me guess - the Key of Orthanc? Or perhaps the keys of Barad-dûr itself, along with the crowns of the Seven Kings and the rods of the Five Wizards!",
+    "author": "Saruman the White (Curunír)",
+    "img": "Saruman.jpg",
+    "class": "saruman"
+  },
+  {
+    "quote": "‘A Man of Rohan’? What is the House of Rohan, but a THATCHED BARN, where brigards drink in the reek, and their brats roll on the floor WITH THE DOGS?! The victory at Helm's Deep does not belong to you, Théoden HORSE-MASTER! You are a lesser son of greater sires!",
+    "author": "Saruman the White (Curunír)",
+    "img": "Saruman.jpg",
+    "class": "saruman"
+  },
+  {
     "quote": "Who knows what you have spoken to the darkness, alone, in the bitter watches of the night, when all your life seems to shrink, the walls of your BOWER closing in about you, a hutch to trammel some... WILD THING.",
     "author": "Grima Wormtongue",
     "img": "Grima.jpg",
@@ -72,7 +84,25 @@
     "class": "aragorn"
   },
   {
-    "quote": "We must get off the mountain! Make for the gap of Rohan! Or take the west road to MY CITY!",
+    "quote": "We must get off the MOUNTAIN! Make for the gap of ROHAN! Or take the west road to MY CITY!",
+    "author": "Boromir, son of Denethor",
+    "img": "Boromir.jpg",
+    "class": "boromir"
+  },
+  {
+    "quote": "Gondor has no king. Gondor needs no king.",
+    "author": "Boromir, son of Denethor",
+    "img": "Boromir.jpg",
+    "class": "boromir"
+  },
+  {
+    "quote": "Is it not a strange fate that we should suffer so much fear and doubt for so small a thing?",
+    "author": "Boromir, son of Denethor",
+    "img": "Boromir.jpg",
+    "class": "boromir"
+  },
+  {
+    "quote": " The shards of Narsil...  The blade that cut the Ring from Sauron's hand... Ah! Its still sharp... but no more than a broken heirloom.",
     "author": "Boromir, son of Denethor",
     "img": "Boromir.jpg",
     "class": "boromir"
@@ -84,9 +114,33 @@
     "class": "theoden"
   },
   {
+    "quote": "Arise, arise, Riders of Théoden! spear shall be shaken, shield shall be splintered, a sword-day, a red day, ere the sun RISES! ... Ride, ride to RUIN and the WORLD'S ENDING!",
+    "author": "Theoden, son of Thengel",
+    "img": "Theoden.jpg",
+    "class": "theoden"
+  },
+  {
+    "quote": "We shall have peace. We shall have peace, when you answer for the burning of the Westfold, and the children that lie dead there! We shall have peace, when the lives of the soldiers, whose bodies were hewn even as they lay dead against the Gates of the Hornburg, are avenged! When you hang from a gibbet, for the sport of your own crows, we shall have peace!",
+    "author": "Theoden, son of Thengel",
+    "img": "Theoden.jpg",
+    "class": "theoden"
+  },
+  {
     "quote": "Be silent! Keep your forked tongue behind your teeth! I have not passed through fire and death to bandy crooked words with a witless worm.",
     "author": "Gandalf the White (Mithrandir)",
     "img": "GandalfWhite.jpg",
+    "class": "gandalf"
+  },
+  {
+    "quote": "I am the Servant of the Secret Fire! Wielder of the Flame of Anor! The dark FIRE shall not AVAIL you, FLAME OF UNDUN! Go back to the Shadow! YOU...SHALL NOT...PASS!",
+    "author": "Gandalf the Grey (Mithrandir)",
+    "img": "GandalfGrey.jpg",
+    "class": "gandalf"
+  },
+  {
+    "quote": "BILBO BAGGINS. Do not take me for some conjuror of CHEAP TRICKS. I am not trying to rob you, I'm trying to help you.",
+    "author": "Gandalf the Grey (Mithrandir)",
+    "img": "GandalfGrey.jpg",
     "class": "gandalf"
   },
   {
@@ -102,15 +156,39 @@
     "class": "gimli"
   },
   {
+    "quote": "I will be dead before I see the Ring in the hands of an elf!",
+    "author": "Gimli, Son of Gloin",
+    "img": "Gimli.jpg",
+    "class": "gimli"
+  },
+  {
     "quote": "Lovely big GOLDEN chips with a nice piece of fried fish.",
-    "author": "Samwise Gamgee, son of Hamfast (the \"Gaffer\")",
+    "author": "Samwise Gamgee, son of Hamfast (the ‘Gaffer’)",
     "img": "Sam.jpg",
     "class": "sam"
   },
   {
     "quote": "PO-TA-TOES!? Mash 'em, boil 'em, stick 'em in a stew? ... You're 'opeless.",
-    "author": "Samwise Gamgee, son of Hamfast (the \"Gaffer\")",
+    "author": "Samwise Gamgee, son of Hamfast (the ‘Gaffer’)",
     "img": "Sam.jpg",
     "class": "sam"
+  },
+  {
+    "quote": "I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.",
+    "author": "Bilbo Baggins",
+    "img": "Bilbo.jpg",
+    "class": "bilbo"
+  },
+  {
+    "quote": "No, thank you! We don't want any more visitors, well-wishers or distant relations!",
+    "author": "Bilbo Baggins",
+    "img": "Bilbo.jpg",
+    "class": "bilbo"
+  },
+  {
+    "quote": "I thought up an ending for my book: 'And he lived happily ever after, unto the end of his days.'",
+    "author": "Bilbo Baggins",
+    "img": "Bilbo.jpg",
+    "class": "bilbo"
   }
 ]
