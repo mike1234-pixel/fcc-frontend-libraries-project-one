@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import data from "./data.json"; // data parsed by react - JSON.parse() not needed
 import { CSSTransition, TransitionGroup } from "react-transition-group";
 
@@ -53,7 +52,7 @@ class App extends React.Component {
               src={"./Images/" + this.state.img}
               id="img"
               className="img"
-              alt={this.state.img}
+              alt={this.state.author}
             ></img>
             {/* development */}
             {/* <img
