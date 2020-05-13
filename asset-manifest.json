@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/LOTRQuote/static/css/main.303651f0.chunk.css",
-    "main.js": "/LOTRQuote/static/js/main.eb47b301.chunk.js",
-    "main.js.map": "/LOTRQuote/static/js/main.eb47b301.chunk.js.map",
+    "main.css": "/LOTRQuote/static/css/main.93b0715a.chunk.css",
+    "main.js": "/LOTRQuote/static/js/main.2fed39f8.chunk.js",
+    "main.js.map": "/LOTRQuote/static/js/main.2fed39f8.chunk.js.map",
     "runtime-main.js": "/LOTRQuote/static/js/runtime-main.dc4283df.js",
     "runtime-main.js.map": "/LOTRQuote/static/js/runtime-main.dc4283df.js.map",
     "static/js/2.bee21133.chunk.js": "/LOTRQuote/static/js/2.bee21133.chunk.js",
     "static/js/2.bee21133.chunk.js.map": "/LOTRQuote/static/js/2.bee21133.chunk.js.map",
     "index.html": "/LOTRQuote/index.html",
-    "precache-manifest.c49e740efe3498febb153f290c43030a.js": "/LOTRQuote/precache-manifest.c49e740efe3498febb153f290c43030a.js",
+    "precache-manifest.231b54c7011101f8c10c670347906468.js": "/LOTRQuote/precache-manifest.231b54c7011101f8c10c670347906468.js",
     "service-worker.js": "/LOTRQuote/service-worker.js",
-    "static/css/main.303651f0.chunk.css.map": "/LOTRQuote/static/css/main.303651f0.chunk.css.map",
+    "static/css/main.93b0715a.chunk.css.map": "/LOTRQuote/static/css/main.93b0715a.chunk.css.map",
     "static/js/2.bee21133.chunk.js.LICENSE.txt": "/LOTRQuote/static/js/2.bee21133.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dc4283df.js",
     "static/js/2.bee21133.chunk.js",
-    "static/css/main.303651f0.chunk.css",
-    "static/js/main.eb47b301.chunk.js"
+    "static/css/main.93b0715a.chunk.css",
+    "static/js/main.2fed39f8.chunk.js"
   ]
 }
