@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "50f1b6706c5c522910fdea58e8a79ff5",
+    "revision": "3b9a49f1d8a0665d3dcf6d99aca86566",
     "url": "/LOTRQuote/index.html"
   },
   {
-    "revision": "d2034758d9ae3db0e8b4",
-    "url": "/LOTRQuote/static/css/main.93b0715a.chunk.css"
+    "revision": "f8a5250a2963167c32c8",
+    "url": "/LOTRQuote/static/css/main.025660ac.chunk.css"
   },
   {
     "revision": "365aae7da6aabeb6e294",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LOTRQuote/static/js/2.bee21133.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d2034758d9ae3db0e8b4",
-    "url": "/LOTRQuote/static/js/main.2fed39f8.chunk.js"
+    "revision": "f8a5250a2963167c32c8",
+    "url": "/LOTRQuote/static/js/main.95c2b8ad.chunk.js"
   },
   {
     "revision": "ab1d626c6c7d5b33a2d2",
