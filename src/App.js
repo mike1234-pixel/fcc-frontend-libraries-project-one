@@ -35,7 +35,9 @@ class App extends React.Component {
   render() {
     return (
       <div id="quote-box" className={this.state.class}>
-        <h1 className="app-heading">Lord of the Rings Movie Quotes</h1>
+        <div className="app-heading-container">
+          <h1 className="app-heading">Lord of the Rings Movie Quotes</h1>
+        </div>
         <a id="new-quote" className="btn btn--white" onClick={this.handleClick}>
           New Quote
         </a>

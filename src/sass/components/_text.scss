@@ -4,6 +4,10 @@
   margin-top: 15rem;
 }
 
+@media (max-width: 400px) {
+  margin: 15rem 5rem 0;
+}
+
 #author {
   margin-left: 10rem;
   margin-right: 10rem;
@@ -14,7 +18,7 @@
   margin: 2rem 5rem 0;
 }
 
-#quote-box {
+.app-heading-container {
   text-align: center;
 }
 
