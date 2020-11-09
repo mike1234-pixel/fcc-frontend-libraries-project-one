@@ -2,7 +2,7 @@
 
 # Random Quote Machine: Lord Of The Rings Movie Quotes
 
-This is a project made with React.js as part of the freeCodeCamp Frontend Libraries Certification.
+This is a project made with *React.js* as part of the freeCodeCamp Frontend Libraries Certification.
 
 Images change as part of the state of the application, and to animate between state changes I have used the *react-transition-group* library.
 
